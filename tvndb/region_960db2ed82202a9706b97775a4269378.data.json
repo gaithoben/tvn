@@ -1,0 +1,4 @@
+{"type":2300,"data":{"_key":"4460","_id":"region/4460","_rev":"_Zd0j4qy---","RegionCode":"01","RegionName":"KIRINYAGA","User":"Production","createdAt":1551190999189,"updatedAt":1551190999189}}
+{"type":2300,"data":{"_key":"4461","_id":"region/4461","_rev":"_Zd0j4qy--A","RegionCode":"02","RegionName":"NYERI","User":"Production","createdAt":1551191013517,"updatedAt":1551191013517}}
+{"type":2300,"data":{"_key":"4462","_id":"region/4462","_rev":"_Zd0j4qy--C","RegionCode":"03","RegionName":"MURANG'A","User":"Production","createdAt":1551191030408,"updatedAt":1551191030408}}
+{"type":2300,"data":{"_key":"4463","_id":"region/4463","_rev":"_Zd0j4qy--E","RegionCode":"04","RegionName":"EMBU","User":"Production","createdAt":1551191046919,"updatedAt":1551191046919}}

@@ -1,0 +1,4 @@
+{"type":2300,"data":{"_key":"4170","_id":"producedefect/4170","_rev":"_Zd0j1pC---","DefectName":"Mould","Description":"Raw material infected with mould","createdAt":1544540384031,"updatedAt":1544540384031}}
+{"type":2300,"data":{"_key":"4171","_id":"producedefect/4171","_rev":"_Zd0j1pC--A","DefectName":"Insect damage","Description":"insect damage","createdAt":1544785228541,"updatedAt":1544785228541}}
+{"type":2300,"data":{"_key":"4172","_id":"producedefect/4172","_rev":"_Zd0j1pC--C","DefectName":"IMATURE","Description":"IMATURE","createdAt":1550932189554,"updatedAt":1550932189554}}
+{"type":2300,"data":{"_key":"4173","_id":"producedefect/4173","_rev":"_Zd0j1pC--E","DefectName":"MARGINAL","Description":"MARGINAL","createdAt":1551190931756,"updatedAt":1551190931756}}
